@@ -1,4 +1,4 @@
-package lab.bb.oat.hazelcast.laboratorio_cache_hazelcast;
+package me.marques.anderson.hazelcast.lab;
 
 import com.hazelcast.core.Hazelcast;
 import com.hazelcast.core.HazelcastInstance;
